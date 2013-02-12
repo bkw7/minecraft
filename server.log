@@ -1,0 +1,149 @@
+2013-02-11 18:42:16 [INFO] Starting minecraft server version 1.4.7
+2013-02-11 18:42:16 [INFO] Loading properties
+2013-02-11 18:42:16 [WARNING] server.properties does not exist
+2013-02-11 18:42:16 [INFO] Generating new properties file
+2013-02-11 18:42:16 [INFO] Default game type: SURVIVAL
+2013-02-11 18:42:16 [INFO] Generating keypair
+2013-02-11 18:42:17 [INFO] Starting Minecraft server on *:25565
+2013-02-11 18:42:17 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2013-02-11 18:42:17 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2013-02-11 18:42:17 [INFO] Preparing level "world"
+2013-02-11 18:42:18 [INFO] Preparing start region for level 0
+2013-02-11 18:42:20 [INFO] Preparing spawn area: 2%
+2013-02-11 18:42:21 [INFO] Preparing spawn area: 4%
+2013-02-11 18:42:22 [INFO] Preparing spawn area: 6%
+2013-02-11 18:42:23 [INFO] Preparing spawn area: 8%
+2013-02-11 18:42:24 [INFO] Preparing spawn area: 9%
+2013-02-11 18:42:25 [INFO] Preparing spawn area: 10%
+2013-02-11 18:42:26 [INFO] Preparing spawn area: 11%
+2013-02-11 18:42:27 [INFO] Preparing spawn area: 12%
+2013-02-11 18:42:28 [INFO] Preparing spawn area: 13%
+2013-02-11 18:42:29 [INFO] Preparing spawn area: 15%
+2013-02-11 18:42:30 [INFO] Preparing spawn area: 16%
+2013-02-11 18:42:31 [INFO] Preparing spawn area: 17%
+2013-02-11 18:42:33 [INFO] Preparing spawn area: 18%
+2013-02-11 18:42:34 [INFO] Preparing spawn area: 19%
+2013-02-11 18:42:35 [INFO] Preparing spawn area: 21%
+2013-02-11 18:42:36 [INFO] Preparing spawn area: 22%
+2013-02-11 18:42:37 [INFO] Preparing spawn area: 23%
+2013-02-11 18:42:38 [INFO] Preparing spawn area: 25%
+2013-02-11 18:42:39 [INFO] Preparing spawn area: 26%
+2013-02-11 18:42:40 [INFO] Preparing spawn area: 27%
+2013-02-11 18:42:41 [INFO] Preparing spawn area: 29%
+2013-02-11 18:42:42 [INFO] Preparing spawn area: 30%
+2013-02-11 18:42:43 [INFO] Preparing spawn area: 32%
+2013-02-11 18:42:45 [INFO] Preparing spawn area: 33%
+2013-02-11 18:42:46 [INFO] Preparing spawn area: 34%
+2013-02-11 18:42:47 [INFO] Preparing spawn area: 36%
+2013-02-11 18:42:48 [INFO] Preparing spawn area: 37%
+2013-02-11 18:42:49 [INFO] Preparing spawn area: 39%
+2013-02-11 18:42:50 [INFO] Preparing spawn area: 40%
+2013-02-11 18:42:51 [INFO] Preparing spawn area: 41%
+2013-02-11 18:42:52 [INFO] Preparing spawn area: 42%
+2013-02-11 18:42:53 [INFO] Preparing spawn area: 44%
+2013-02-11 18:42:54 [INFO] Preparing spawn area: 45%
+2013-02-11 18:42:55 [INFO] Preparing spawn area: 47%
+2013-02-11 18:42:56 [INFO] Preparing spawn area: 48%
+2013-02-11 18:42:57 [INFO] Preparing spawn area: 50%
+2013-02-11 18:42:58 [INFO] Preparing spawn area: 51%
+2013-02-11 18:43:00 [INFO] Preparing spawn area: 53%
+2013-02-11 18:43:01 [INFO] Preparing spawn area: 54%
+2013-02-11 18:43:02 [INFO] Preparing spawn area: 56%
+2013-02-11 18:43:03 [INFO] Preparing spawn area: 57%
+2013-02-11 18:43:04 [INFO] Preparing spawn area: 59%
+2013-02-11 18:43:05 [INFO] Preparing spawn area: 60%
+2013-02-11 18:43:06 [INFO] Preparing spawn area: 61%
+2013-02-11 18:43:07 [INFO] Preparing spawn area: 62%
+2013-02-11 18:43:08 [INFO] Preparing spawn area: 63%
+2013-02-11 18:43:09 [INFO] Preparing spawn area: 64%
+2013-02-11 18:43:10 [INFO] Preparing spawn area: 65%
+2013-02-11 18:43:11 [INFO] Preparing spawn area: 66%
+2013-02-11 18:43:12 [INFO] Preparing spawn area: 68%
+2013-02-11 18:43:13 [INFO] Preparing spawn area: 70%
+2013-02-11 18:43:14 [INFO] Preparing spawn area: 71%
+2013-02-11 18:43:16 [INFO] Preparing spawn area: 73%
+2013-02-11 18:43:17 [INFO] Preparing spawn area: 74%
+2013-02-11 18:43:18 [INFO] Preparing spawn area: 76%
+2013-02-11 18:43:19 [INFO] Preparing spawn area: 77%
+2013-02-11 18:43:20 [INFO] Preparing spawn area: 79%
+2013-02-11 18:43:21 [INFO] Preparing spawn area: 81%
+2013-02-11 18:43:22 [INFO] Preparing spawn area: 82%
+2013-02-11 18:43:23 [INFO] Preparing spawn area: 84%
+2013-02-11 18:43:24 [INFO] Preparing spawn area: 85%
+2013-02-11 18:43:25 [INFO] Preparing spawn area: 87%
+2013-02-11 18:43:26 [INFO] Preparing spawn area: 89%
+2013-02-11 18:43:27 [INFO] Preparing spawn area: 90%
+2013-02-11 18:43:28 [INFO] Preparing spawn area: 92%
+2013-02-11 18:43:29 [INFO] Preparing spawn area: 93%
+2013-02-11 18:43:30 [INFO] Preparing spawn area: 95%
+2013-02-11 18:43:32 [INFO] Preparing spawn area: 97%
+2013-02-11 18:43:33 [INFO] Preparing spawn area: 99%
+2013-02-11 18:43:33 [INFO] Done (75.932s)! For help, type "help" or "?"
+2013-02-11 18:43:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 18:44:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 18:45:23 [INFO] Unknown command. Try /help for a list of commands.
+2013-02-11 19:09:22 [INFO] bwebbs337[/192.168.1.102:57794] logged in with entity id 6203 at (-246.5, 72.62000000476837, 249.5)
+2013-02-11 19:09:53 [INFO] bwebbs337 lost connection: disconnect.endOfStream
+2013-02-11 19:09:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:10:08 [INFO] bwebbs337[/192.168.1.102:57799] logged in with entity id 6241 at (-246.5, 70.9539999723434, 249.5)
+2013-02-11 19:10:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:10:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:10:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:11:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:11:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:11:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:12:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:12:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:12:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:12:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:13:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:13:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:13:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:14:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:14:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:14:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:15:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:15:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:15:20 [INFO] Stopping server
+2013-02-11 19:16:13 [INFO] Starting minecraft server version 1.4.7
+2013-02-11 19:16:13 [INFO] Loading properties
+2013-02-11 19:16:13 [INFO] Default game type: SURVIVAL
+2013-02-11 19:16:13 [INFO] Generating keypair
+2013-02-11 19:16:15 [INFO] Starting Minecraft server on *:25565
+2013-02-11 19:16:15 [INFO] Preparing level "world"
+2013-02-11 19:16:16 [INFO] Preparing start region for level 0
+2013-02-11 19:16:17 [INFO] Preparing spawn area: 8%
+2013-02-11 19:16:18 [INFO] Preparing spawn area: 28%
+2013-02-11 19:16:19 [INFO] Preparing spawn area: 54%
+2013-02-11 19:16:20 [INFO] Preparing spawn area: 82%
+2013-02-11 19:16:20 [INFO] Done (5.310s)! For help, type "help" or "?"
+2013-02-11 19:16:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:16:38 [INFO] /192.168.1.102:58711 lost connection
+2013-02-11 19:16:42 [INFO] bwebbs337[/192.168.1.102:58716] logged in with entity id 748 at (-281.9404331926097, 69.0, 244.22547500000084)
+2013-02-11 19:17:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:17:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:17:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:17:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:18:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:18:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:18:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:19:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:19:30 [INFO] Stopping server
+2013-02-11 19:21:37 [INFO] Starting minecraft server version 1.4.7
+2013-02-11 19:21:37 [INFO] Loading properties
+2013-02-11 19:21:37 [INFO] Default game type: SURVIVAL
+2013-02-11 19:21:37 [INFO] Generating keypair
+2013-02-11 19:21:39 [INFO] Starting Minecraft server on *:25565
+2013-02-11 19:21:40 [INFO] Preparing level "world"
+2013-02-11 19:21:40 [INFO] Preparing start region for level 0
+2013-02-11 19:21:41 [INFO] Preparing spawn area: 6%
+2013-02-11 19:21:42 [INFO] Preparing spawn area: 28%
+2013-02-11 19:21:43 [INFO] Preparing spawn area: 54%
+2013-02-11 19:21:44 [INFO] Preparing spawn area: 83%
+2013-02-11 19:21:45 [INFO] Done (5.272s)! For help, type "help" or "?"
+2013-02-11 19:21:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:21:52 [INFO] bwebbs337[/192.168.1.102:59057] logged in with entity id 669 at (-318.6473347753361, 68.0, 197.29467504062703)
+2013-02-11 19:22:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:22:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:23:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-02-11 19:23:22 [INFO] bwebbs337 lost connection: disconnect.quitting
